@@ -1,0 +1,6 @@
+# Ninja Gaiden III - The Ancient Ship of Doom (USA) - NESRecomp cycle backend
+# Mapper 4 (MMC3), 128 KB PRG, 128 KB CHR, horizontal mirroring.
+
+[game]
+output_prefix = "Ninja-Gaiden-III---The-Ancient-Ship-of-Doom-USA"
+cycle_accurate = true
